@@ -96,7 +96,6 @@ table.button table td.btn2 a {
     color: #f90;
     font-weight: 600;
     text-align: center;
-    font-weight: 700;
 }
 
 .sub-heading{
@@ -155,4 +154,11 @@ a:visited {
 
 .social-icons a:hover img {
     margin-top: -8px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-content: center;
 }
